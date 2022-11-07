@@ -273,7 +273,7 @@
 
 .pill {
     border: 1px solid lightgray;
-    margin: 0 0.25rem;
+    margin: 0.5rem 0.25rem;
     padding: 0.25rem 1rem;
     font-size: 0.9rem;
     border-radius: 1.5rem;
@@ -287,6 +287,9 @@
     border: 1px solid var(--pink);
 }
 
+.mt-3 {
+    margin-top: 1.5rem;
+}
 
 @media (min-width: 760px) {
 
