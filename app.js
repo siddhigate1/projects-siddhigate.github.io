@@ -340,5 +340,3 @@ const pills = document.querySelectorAll(".pill");
 for (let pill of pills) {
     pill.addEventListener("click", () => renderProjects(pills, pill.dataset.category));
 }
-
-renderProjects(pills, "All");
