@@ -41,7 +41,7 @@ const data = [
         type: [ALL, FEATURED, WEB],
     },
     {
-        title: "Chattgattor",
+        title: "ChattGattor",
         subtitle: "Integrate chat functionality in your app without any hassle!",
         imageUrl: "./assets/apps/chattgattor.png",
         liveUrl: "",
