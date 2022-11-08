@@ -44,24 +44,24 @@ const data = [
         title: "ChattGattor",
         subtitle: "Integrate chat functionality in your app without any hassle!",
         imageUrl: "./assets/apps/chattgattor.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://chattgator.netlify.app/",
+        githubUrl: "https://github.com/ChattGator",
         type: [ALL, FEATURED, WEB, NPM],
     },
     {
         title: "Dev Case",
         subtitle: "Generate your developer portfolio and Showcase your skills!",
         imageUrl: "./assets/apps/devcase.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://devcase.vercel.app/",
+        githubUrl: "https://github.com/siddhigate/devCase",
         type: [ALL, WEB],
     },
     {
         title: "Roadmaps",
         subtitle: "Generate your developer portfolio and Showcase your skills!",
         imageUrl: "./assets/apps/roadmap.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://user-frontend-ecru.vercel.app/",
+        githubUrl: "https://github.com/TeamRoadmap",
         type: [ALL, WEB],
     },
     {
@@ -69,25 +69,25 @@ const data = [
         subtitle:
             "A modern, sleek and accessible library to build your websites faster!",
         imageUrl: "./assets/apps/upsleekui.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://upsleek-ui.vercel.app/",
+        githubUrl: "https://github.com/siddhigate/upsleek-css-component-library",
         type: [ALL, WEB],
     },
-    {
-        title: "Memory Game",
-        subtitle: "Test and challenge your memory with a fun memory game!",
-        imageUrl: "./assets/apps/linkpreview.png",
-        liveUrl: "",
-        githubUrl: "",
-        type: [ALL, WEB],
-    },
+    // {
+    //     title: "Memory Game",
+    //     subtitle: "Test and challenge your memory with a fun memory game!",
+    //     imageUrl: "./assets/apps/linkpreview.png",
+    //     liveUrl: "",
+    //     githubUrl: "",
+    //     type: [ALL, WEB],
+    // },
     {
         title: "Sorting Visualizer",
         subtitle:
             "Understand the working of sorting algorithm using Sorting Visualizer!",
         imageUrl: "./assets/apps/sorting.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://sortingalgorithmsvisualizer.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/sorting-visualizer",
         type: [ALL, WEB],
     },
 
@@ -95,16 +95,16 @@ const data = [
         title: "Lucky Birthday",
         subtitle: "Find if your birthday is lucky or not using Lucky Birthday app!",
         imageUrl: "./assets/apps/luckybday.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://lucky-birthday-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/lucky-birthday",
         type: [ALL, WEB],
     },
     {
         title: "Lift simulator",
         subtitle: "Simulates the working of lifts handling multiple requests!",
         imageUrl: "./assets/apps/liftsimulation.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://lifts.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/lift-simulation",
         type: [ALL, WEB],
     },
 
@@ -112,8 +112,8 @@ const data = [
         title: "Projectile Game",
         subtitle: "Relieve your stress by playing this fun projectile game!",
         imageUrl: "./assets/apps/projectilegame.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://the-projectile-game.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/projectile-game",
         type: [ALL, WEB],
     },
     {
@@ -121,8 +121,8 @@ const data = [
         subtitle:
             "Find if your birthday is a palindrome or not using Palindrome Birthday app!",
         imageUrl: "./assets/apps/bdaypalindrome.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://birthday-palindrome-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/birthday_palindrome",
         type: [ALL, WEB],
     },
     {
@@ -130,8 +130,8 @@ const data = [
         subtitle:
             "Have fun with triangles by playing triangles quiz and doing triangles math!",
         imageUrl: "./assets/apps/triangles.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://fun-with-triangles-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/fun-with-triangles",
         type: [ALL, WEB],
     },
     {
@@ -139,8 +139,8 @@ const data = [
         subtitle:
             "Translate English to Ferb Latin language and have fun with your friends!",
         imageUrl: "./assets/apps/ferblatin.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://ferb-latin-speak-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/ferb-latin-speak",
         type: [ALL, WEB],
     },
     {
@@ -148,16 +148,16 @@ const data = [
         subtitle:
             "Translate English to Minion's language and decode what they say!",
         imageUrl: "./assets/apps/minion.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://minion-banana-speak-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/minion-banana-speak",
         type: [ALL, WEB],
     },
     {
         title: "Cash Register",
         subtitle: "Your cash register will help you find how much cash to return!",
         imageUrl: "./assets/apps/cashregister.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://cash-register-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/cash-register",
         type: [ALL, WEB],
     },
     {
@@ -165,8 +165,8 @@ const data = [
         subtitle:
             "Try this quiz and find out how much of a real Brooklyn99 fan are you!",
         imageUrl: "./assets/apps/b99cli.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://replit.com/@SiddhiCodes/brooklyn99-quiz?embed=1&output=1",
+        githubUrl: "https://github.com/siddhigate/brooklyn99-cli-quiz",
         type: [ALL],
     },
     {
@@ -174,43 +174,43 @@ const data = [
         subtitle:
             "Implementation of link state routing algorithm used in OSPF protocol.",
         imageUrl: "./assets/apps/linkstaterouting.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://replit.com/@SiddhiCodes/LinkStateRouting",
+        githubUrl: "https://github.com/siddhigate/link-state-routing-implementation",
         type: [ALL],
     },
-    {
-        title: "Expenser",
-        subtitle:
-            "Your own simple personal expense tracker to manage your expenses!",
-        imageUrl: "./assets/apps/expenser.png",
-        liveUrl: "",
-        githubUrl: "",
-        type: [ALL, MOBILE],
-    },
-    {
-        title: "Study Buddy",
-        subtitle:
-            "Your own study buddy will help you study and get the tasks done!",
-        imageUrl: "./assets/apps/studybuddy.png",
-        liveUrl: "",
-        githubUrl: "",
-        type: [ALL, MOBILE],
-    },
-    {
-        title: "Elderly Care",
-        subtitle: "An app that will help you to take care of your elders!",
-        imageUrl: "./assets/apps/elderlycare.png",
-        liveUrl: "",
-        githubUrl: "",
-        type: [ALL, MOBILE],
-    },
+    // {
+    //     title: "Expenser",
+    //     subtitle:
+    //         "Your own simple personal expense tracker to manage your expenses!",
+    //     imageUrl: "./assets/apps/expenser.png",
+    //     liveUrl: "",
+    //     githubUrl: "",
+    //     type: [ALL, MOBILE],
+    // },
+    // {
+    //     title: "Study Buddy",
+    //     subtitle:
+    //         "Your own study buddy will help you study and get the tasks done!",
+    //     imageUrl: "./assets/apps/studybuddy.png",
+    //     liveUrl: "",
+    //     githubUrl: "",
+    //     type: [ALL, MOBILE],
+    // },
+    // {
+    //     title: "Elderly Care",
+    //     subtitle: "An app that will help you to take care of your elders!",
+    //     imageUrl: "./assets/apps/elderlycare.png",
+    //     liveUrl: "",
+    //     githubUrl: "",
+    //     type: [ALL, MOBILE],
+    // },
     {
         title: "GitHub Profile Finder",
         subtitle:
             "Find any GitHub profile easily using this GitHub profile finder!",
         imageUrl: "./assets/apps/githubfinder.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://github-profile-finder-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/github-profile-finder",
         type: [ALL, WEB],
     },
     {
@@ -218,8 +218,8 @@ const data = [
         subtitle:
             "Find if your stock is in profit or loss using Stock Profit or Loss!",
         imageUrl: "./assets/apps/stock.png",
-        liveUrl: "",
-        githubUrl: "",
+        liveUrl: "https://stock-profit-loss-siddhi.netlify.app/",
+        githubUrl: "https://github.com/siddhigate/stock-profit-loss",
         type: [ALL, WEB],
     },
 ];
@@ -340,3 +340,5 @@ const pills = document.querySelectorAll(".pill");
 for (let pill of pills) {
     pill.addEventListener("click", () => renderProjects(pills, pill.dataset.category));
 }
+
+// renderProjects(pills, "All");
